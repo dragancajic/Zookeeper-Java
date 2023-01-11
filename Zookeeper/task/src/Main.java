@@ -1,5 +1,3 @@
-import java.util.List;
-
 public class Main {
     public static void main(String[] args) {
         String camel = """
@@ -122,6 +120,8 @@ public class Main {
              ]\\      _\\    /"\\
             (" ~----( ~   Y.  )
             It looks like we will soon have more rabbits!""";
+
+        String[] animals = {camel, lion, deer, goose, bat, rabbit};
 
         // write your code here
     }
